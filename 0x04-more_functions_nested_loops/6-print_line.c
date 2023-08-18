@@ -2,6 +2,7 @@
 
 /**
  * print_line - print _ n times
+ * @n: parameter
  * Return: void
  */
 
